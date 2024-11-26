@@ -14,7 +14,7 @@ environment, production config would be different.*
 
 Clone the repository and cd into it.
 
-    $ git clone https://github.com/sahkanishk01/Maverick_A Reddit Bot
+    $ git clone https://github.com/sahkanishk01/Maverick_A-Reddit-Bot
     $ cd Maverick
 
 Create config file by running the following command:
