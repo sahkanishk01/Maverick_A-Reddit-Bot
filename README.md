@@ -53,8 +53,8 @@ In order to deactivate the virtual environment, just run `deactivate`.
 ```
 Maverick - the extensible reddit bot
 
-Copyright (C) 2017 Rashi Sah
-Copyright (C) 2017 Param Singh
+Copyright (C) 2024 Kanishk Sah
+
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
