@@ -12,7 +12,7 @@ on Python 2 but we do not recommend or support it.
 *These instructions are meant to set you up quickly with a development
 environment, production config would be different.*
 
-Clone the repository and cd into it.
+Clone the repository and simply (chnage directory) cd into it.
 
     $ git clone https://github.com/sahkanishk01/Maverick_A-Reddit-Bot
     $ cd Maverick
