@@ -10,7 +10,7 @@ def init_reddit_connection():
             client_secret=config.CLIENT_SECRET,
             refresh_token=config.ACCESS_TOKEN,
             user_agent=config.USERAGENT,
-            username=config.USERNAME,
+            user_name=config.USERNAME,
             password=config.PASSWORD
         )
 
