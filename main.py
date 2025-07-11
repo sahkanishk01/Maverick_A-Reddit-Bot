@@ -18,6 +18,6 @@ if __name__ == '__main__':
                 posts.append(submission)
         for f in functions:
             f(posts, reddit)
-        time.sleep(5)
+        time.sleep(7)
 
 
